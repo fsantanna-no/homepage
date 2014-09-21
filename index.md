@@ -20,12 +20,13 @@
 
 # Francisco Sant'Anna (<img src="l.gif"/>)
 
-* PhD student at PUC-Rio, Brazil.
-* Supervised by [Prof.  Roberto Ierusalimschy](http://www.inf.puc-rio.br/~roberto).
+* PhD, PUC-Rio, Brazil.
 * Computer Science --> Programming Languages --> Synchronous Reactive 
   Languages.
-* My blog on reactive languages research: 
-  <http://thesynchronousblog.wordpress.com/>
+* Supervised by
+    [Prof. Roberto Ierusalimschy](http://www.inf.puc-rio.br/~roberto)
+    and
+    [Prof. Noemi Rodriguez](http://www.inf.puc-rio.br/~noemi).
 * List of publications: [bibtex](fsantanna.bib)
 
 <hr/>
@@ -36,18 +37,36 @@
 <hr/>
 -->
 
+## Follow me
+
+* Blog:
+    <http://thesynchronousblog.wordpress.com/>
+
+* Github:
+    <http://github.com/fsantanna/>
+
+* Twitter:
+    <https://twitter.com/fsantanna_puc>
+
+<hr/>
+
 ## [Céu](http://ceu-lang.org)
 
 <img align="right" src="ceu.png"/>
 
-Céu is a reactive language targeted at embedded systems and intended to offer a 
-higher-level and safer alternative to C. 
-
-It can be described as a reactive, imperative, concurrent, synchronous, and 
+Céu is a language targeting reactive applications, aiming to offer a 
+higher-level and safer alternative to C.
+<br/>
+Reactive applications interact continuously with the environment and are mostly 
+guided through input events from it.
+<br/>
+Céu can be described as a reactive, imperative, concurrent, synchronous, and 
 deterministic language.
 
+<!--
 Céu has a memory footprint of around 3Kb of ROM and 100b of RAM (on a 16bits 
 platform).
+-->
 
 Website: <http://ceu-lang.org/> *(you can try Céu online!)*
 
@@ -61,19 +80,28 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 
 ### Publications:
 
-* 2013: SenSys full paper (accepted paper)
+* 2013: SenSys conference paper
     --- *"Safe Concurrent Abstractions for Wireless Sensor Networks"*
     --- [ [pdf](ceu_sensys13_pre.pdf) | [site][sensys13_site] ]
+
+* 2013: REM workshop paper
+    --- *"Advanced Control Reactivity for Embedded Systems"*
+    --- [ [pdf](ceu_rem13_pre.pdf) | [site][rem13_site] ]
+
+* 2013: PhD Thesis
+    --- *"Safe System-level Concurrency on Resource-Constrained Nodes with Céu"*
+    --- [ [pdf](ceu_phd.pdf) ]
 
 * 2012: PUC-Rio technical report
     --- *"Céu: Embedded, Safe, and Reactive Programming"*
     --- [ [pdf](ceu_tr.pdf) | [site][tr_site] ]
 
-* 2011: SenSys (Doctoral Colloquium) short paper
+* 2011: SenSys (Doctoral Colloquium) paper
     --- *"Céu: A Reactive Language for Wireless Sensor Networks"*
     --- [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
 
 [sensys13_site]: http://sensys.acm.org/2013/index.html
+[rem13_site]: http://soft.vub.ac.be/REM13/
 [tr_site]: http://bib-di.inf.puc-rio.br/techreports/2012.htm
 [dc_site]: http://www.cse.ust.hk/~lingu/SenSys11DC/
 

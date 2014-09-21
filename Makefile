@@ -1,5 +1,5 @@
 all:
-	markdown index.txt > index.html
+	markdown index.md > index.html
 
 upload:
 	#rsync -e ssh -avL . francisco@www.lua.inf.puc-rio.br:/home/francisco/public_html/
