@@ -21,6 +21,7 @@
 <h1>Francisco Sant'Anna (<img src="l.gif"/>)</h1>
 
 <ul>
+<li>Professor, <a href="http://www.uerj.br/idiomas.php#gb">UERJ</a>, Brazil</li>
 <li>PhD, PUC-Rio, Brazil.</li>
 <li>Computer Science --> Programming Languages --> Synchronous Reactive 
 Languages.</li>
@@ -33,35 +34,44 @@ and
 
 <hr/>
 
-<!--
+<h2>Research</h2>
 
+<p><a href="#ceu">
+<img width="280" src="ceu.png" style="float:left; margin-right: 80px;"/>
+</a></p>
 
-7b37e4477569486d624273475d464160
+<p><a href="#luagravity">
+<img width="150" src="luagravity.png" style="float:left; margin-right: 80px;"/>
+</a></p>
 
+<p><a href="#ncl">
+<img width="250" src="ncl.png" style="float:left; margin-right: 80px;"/>
+</a></p>
 
+<div style="clear:both;"></div>
 
 <hr/>
--->
 
 <h2>Follow me</h2>
 
 <ul>
-<li><p>Blog:
-<a href="http://thesynchronousblog.wordpress.com/">http://thesynchronousblog.wordpress.com/</a></p></li>
 <li><p>Github:
 <a href="http://github.com/fsantanna/">http://github.com/fsantanna/</a></p></li>
 <li><p>Twitter:
-<a href="https://twitter.com/fsantanna_puc">https://twitter.com/fsantanna_puc</a></p></li>
+<a href="https://twitter.com/fsantanna_uerj">https://twitter.com/fsantanna_uerj</a></p></li>
+<li><p>Blog:
+<a href="http://thesynchronousblog.wordpress.com/">http://thesynchronousblog.wordpress.com/</a></p></li>
 </ul>
 
-<hr/>
+<p><a name="ceu"></a>
+<hr/></p>
 
 <h2><a href="http://ceu-lang.org">Céu</a></h2>
 
 <p><img align="right" src="ceu.png"/></p>
 
-<p>Céu is a language targeting reactive applications, aiming to offer a 
-higher-level and safer alternative to C.
+<p>Céu provides "Structured Synchronous Reactive Programming", a safe and 
+deterministic concurrency model with side effects.
 <br/>
 Reactive applications interact continuously with the environment and are mostly 
 guided through input events from it.
@@ -87,31 +97,91 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 <h3>Publications:</h3>
 
 <ul>
+<li><p>2015: REBLS workshop paper
+--- <em>"Reactive Traversal of Recursive Data Types"</em>
+--- [ <a href="ceu_rebls15.pdf">pdf</a> | <a href="http://www.guidosalvaneschi.com/REBLS/REBLS2015/">site</a> ]</p>
+
+<ul>
+<li><small><strong>Read #3</strong></small></li>
+<li><small>tagged unions, the <code>traverse</code> construct, a logo turtle 
+     interpreter</small></li>
+</ul></li>
+<li><p>2015: Modularity conference paper
+--- <em>"Structured Synchronous Reactive Programming with Céu"</em>
+--- [ <a href="ceu_mod15_pre.pdf">pdf</a> | <a href="http://www.aosd.net/2015/">site</a> | <a href="https://vimeo.com/110512582">video</a> ]</p>
+
+<ul>
+<li><small><strong>Read #2</strong></small></li>
+<li><small>main paper about the "dynamic Céu": organisms, pointers and 
+     references</small></li>
+</ul></li>
+<li><p>2014: REBLS workshop paper
+--- <em>"Structured Reactive Programming with Céu"</em>
+--- [ <a href="ceu_rebls14_pre.pdf">pdf</a> | <a href="http://www.guidosalvaneschi.com/REBLS/REBLS2014/">site</a> ]</p>
+
+<ul>
+<li><small>supressed by Modularity'15 above</small></li>
+</ul></li>
 <li><p>2013: SenSys conference paper
 --- <em>"Safe Concurrent Abstractions for Wireless Sensor Networks"</em>
---- [ <a href="ceu_sensys13_pre.pdf">pdf</a> | <a href="http://sensys.acm.org/2013/index.html">site</a> ]</p></li>
+--- [ <a href="ceu_sensys13_pre.pdf">pdf</a> | <a href="http://sensys.acm.org/2013/index.html">site</a> ]</p>
+
+<ul>
+<li><small><strong>Read #1</strong></small></li>
+<li><small>main paper about the "static Céu": design, evaluation
+     </small></li>
+</ul></li>
 <li><p>2013: REM workshop paper
 --- <em>"Advanced Control Reactivity for Embedded Systems"</em>
---- [ <a href="ceu_rem13_pre.pdf">pdf</a> | <a href="http://soft.vub.ac.be/REM13/">site</a> ]</p></li>
-<li><p>2013: PhD Thesis
+--- [ <a href="ceu_rem13_pre.pdf">pdf</a> | <a href="http://soft.vub.ac.be/REM13/">site</a> ]</p>
+
+<ul>
+<li><small>control mechanisms on top of Céu: exception handling,
+     dataflow programming, the <code>par/hor</code> construct</small></li>
+</ul></li>
+<li><p>2013: PhD. Thesis
 --- <em>"Safe System-level Concurrency on Resource-Constrained Nodes with Céu"</em>
---- [ <a href="ceu_phd.pdf">pdf</a> ]</p></li>
+--- [ <a href="ceu_phd.pdf">pdf</a> ]</p>
+
+<ul>
+<li><small>complete description of the "static Céu": design, evaluation, 
+     semantics, implementation</small></li>
+</ul></li>
 <li><p>2012: PUC-Rio technical report
 --- <em>"Céu: Embedded, Safe, and Reactive Programming"</em>
---- [ <a href="ceu_tr.pdf">pdf</a> | <a href="http://bib-di.inf.puc-rio.br/techreports/2012.htm">site</a> ]</p></li>
+--- [ <a href="ceu_tr.pdf">pdf</a> | <a href="http://bib-di.inf.puc-rio.br/techreports/2012.htm">site</a> ]</p>
+
+<ul>
+<li><small>supressed by the PhD. Thesis above (except for the sections on
+<em>asynchronous execution</em> and <em>simulation</em>)</small></li>
+</ul></li>
 <li><p>2011: SenSys (Doctoral Colloquium) paper
 --- <em>"Céu: A Reactive Language for Wireless Sensor Networks"</em>
---- [ <a href="ceu_sensys11.pdf">pdf</a> | <a href="http://www.cse.ust.hk/~lingu/SenSys11DC/">site</a> ]</p></li>
+--- [ <a href="ceu_sensys11.pdf">pdf</a> | <a href="http://www.cse.ust.hk/~lingu/SenSys11DC/">site</a> ]</p>
+
+<ul>
+<li><small>first exposure of Céu, old expression-based syntax</small></li>
+</ul></li>
 </ul>
 
 <h3>Talks &amp; Teaching:</h3>
 
 <ul>
-<li>2011-2012: <a href="http://www.ort.org.br">ORT</a> and <a href="http://www.ufrj.br">UFRJ</a>
---- <em>"Programming Wireless Sensor Networks"</em></li>
+<li><p>2015: Curry-On!
+--- <em>"Mixing Control and Data Flow in Céu"</em>
+--- [ <a href="http://curry-on.org/">site</a> | <a href="https://www.youtube.com/watch?v=aivVg9WMuMs">video</a> ]</p></li>
+<li><p>2014: Strange Loop / Emerging Languages Camp / Future of Programming Workshop 
+--- <em>"Dynamic Organisms in Céu"</em>
+--- [ <a href="http://www.future-programming.org/program.html">site</a> | <a href="https://vimeo.com/110512582">video</a> ]</p></li>
+<li><p>2014: PUC-Rio / Undergraduate course
+--- <em>"Sistemas Reativos"</em>
+--- [ <a href="https://github.com/fsantanna/reativos">github</a> ]</p></li>
+<li><p>2011-2012: <a href="http://www.ort.org.br">ORT</a> and <a href="http://www.ufrj.br">UFRJ</a>
+--- <em>"Programming Wireless Sensor Networks"</em></p></li>
 </ul>
 
-<hr/>
+<p><a name="luagravity"></a>
+<hr/></p>
 
 <h2><a href="http://www.lua.inf.puc-rio.br/~francisco/luagravity/">LuaGravity</a></h2>
 
@@ -149,7 +219,8 @@ LuaGravity to the realm of server-side web development.</p>
 --- [ <a href="http://thesynchronousblog.wordpress.com/lua-workshop09-video/">slides</a> | <a href="http://thesynchronousblog.wordpress.com/lua-workshop09-video/">video</a> | <a href="http://www.lua.org/wshop09.html">site</a> ]</li>
 </ul>
 
-<hr/>
+<p><a name="ncl"></a>
+<hr/></p>
 
 <h2><a href="http://www.ncl.org.br">NCL</a> / <a href="http://www.telemidia.puc-rio.br/~francisco/nclua/">NCLua</a></h2>
 
@@ -248,3 +319,6 @@ Most of my researching and teaching is related to the Lua language.
 [lua_unicentro]: http://eventos.unicentro.br/jai2010/
 [lua_erbase]: http://www.fejal.com.br/erbase2010/index.php
 -->
+
+<p><br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/></p>
