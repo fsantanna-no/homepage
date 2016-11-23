@@ -18,7 +18,7 @@
 
 </head>
 
-# Francisco Sant'Anna (<img src="l.gif"/>)
+# Francisco Sant'Anna (<img src="email.png" height="20"/>)
 
 * Professor, [UERJ](http://www.uerj.br/idiomas.php#gb), Brazil
 * PhD, PUC-Rio, Brazil.
@@ -54,13 +54,14 @@
     <http://github.com/fsantanna/>
 
 * Twitter:
-    <https://twitter.com/fsantanna_uerj>
+    <https://twitter.com/_fsantanna>
 
 * Blog:
     <http://thesynchronousblog.wordpress.com/>
 
 <a name="ceu"></a>
 <hr/>
+
 ## [Céu](http://ceu-lang.org)
 
 <img align="right" src="ceu.png"/>
@@ -90,6 +91,11 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 -->
 
 ### Publications:
+
+* 2016: WebMedia conference paper
+    --- *"Céu-Media: Local Inter-Media Synchronization Using Céu"*
+    --- [ [site][ceumedia16_site] ]
+    * <small>programming multimedia applications with Céu</small>
 
 * 2015: REBLS workshop paper
     --- *"Reactive Traversal of Recursive Data Types"*
@@ -140,6 +146,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     --- [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
     * <small>first exposure of Céu, old expression-based syntax</small>
 
+[ceumedia16_site]: http://dl.acm.org/citation.cfm?id=2976856
 [rebls15_site]: http://www.guidosalvaneschi.com/REBLS/REBLS2015/
 [mod15_site]: http://www.aosd.net/2015/
 [mod15_video]: https://vimeo.com/110512582
@@ -176,6 +183,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 
 <a name="luagravity"></a>
 <hr/>
+
 ## [LuaGravity][luagravity]
 
 [luagravity]: http://www.lua.inf.puc-rio.br/~francisco/luagravity/
@@ -219,6 +227,7 @@ LuaGravity to the realm of server-side web development.
 
 <a name="ncl"></a>
 <hr/>
+
 ## [NCL](http://www.ncl.org.br) / [NCLua][nclua]
 
 [nclua]: http://www.telemidia.puc-rio.br/~francisco/nclua/
