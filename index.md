@@ -192,15 +192,16 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 
 LuaGravity is a reactive language that implements the synchronous approach for 
 concurrency.
-It is roughly based on Esterel and FrTime, two synchronous reactive languages, 
+It is based on Esterel and FrTime, two synchronous reactive languages, 
 the former having an imperative style, the latter being functional.
 LuaGravity is implemented as a set of runtime extensions to the Lua language.  
+
+<!--
 For an introductory video about LuaGravity, [click 
 here](http://thesynchronousblog.wordpress.com/lua-workshop09-video/).
 
 I have developed LuaGravity during my MSc and currently maintain it.
 
-<!--
 See [Reactive Server Pages (RSP)][rsp], a project that brings the concepts of 
 LuaGravity to the realm of server-side web development.
 
