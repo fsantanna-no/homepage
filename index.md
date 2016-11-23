@@ -94,7 +94,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 
 * 2016: WebMedia conference paper
     --- *"Céu-Media: Local Inter-Media Synchronization Using Céu"*
-    --- [ [site][ceumedia16_site] ]
+    --- [ [pdf](ceumedia_webmedia16_pre.pdf) | [site][ceumedia16_site] ]
     * <small>programming multimedia applications with Céu</small>
 
 * 2015: REBLS workshop paper
