@@ -176,7 +176,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     --- *"Sistemas Reativos"*
     --- [ [github][reativos_github] ]
 
-[reativos_github]: https://github.com/fsantanna/reativos
+[reativos_github]: https://github.com/fsantanna/reativos/
 
 * 2011-2012: [ORT](http://www.ort.org.br) and [UFRJ](http://www.ufrj.br)
     --- *"Programming Wireless Sensor Networks"*
@@ -186,7 +186,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 
 ## [LuaGravity][luagravity]
 
-[luagravity]: http://www.lua.inf.puc-rio.br/~francisco/luagravity/
+[luagravity]: https://github.com/fsantanna/luagravity/
 
 <img width="150" align="right" src="luagravity.png"/>
 
@@ -200,10 +200,12 @@ here](http://thesynchronousblog.wordpress.com/lua-workshop09-video/).
 
 I have developed LuaGravity during my MSc and currently maintain it.
 
+<!--
 See [Reactive Server Pages (RSP)][rsp], a project that brings the concepts of 
 LuaGravity to the realm of server-side web development.
 
 [rsp]: http://www.lua.inf.puc-rio.br/~francisco/rsp/
+-->
 
 ### Publications:
 
@@ -221,8 +223,8 @@ LuaGravity to the realm of server-side web development.
     --- *"LuaGravity: A reactive language"*
     --- [ [slides][luagravity_luaws_video] | [video][luagravity_luaws_video] | [site][luagravity_luaws_site] ]
 
-[luagravity_luaws_slides]: http://thesynchronousblog.wordpress.com/lua-workshop09-video/
-[luagravity_luaws_video]: http://thesynchronousblog.wordpress.com/lua-workshop09-video/
+[luagravity_luaws_slides]: http://thesynchronousblog.files.wordpress.com/2009/11/gvt_luaws.pdf
+[luagravity_luaws_video]: https://www.youtube.com/watch?v=6XMbQ3xjkzI
 [luagravity_luaws_site]: http://www.lua.org/wshop09.html
 
 <a name="ncl"></a>
