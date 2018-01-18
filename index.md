@@ -56,8 +56,10 @@
 * Twitter:
     <https://twitter.com/_fsantanna>
 
+<!--
 * Blog:
     <http://thesynchronousblog.wordpress.com/>
+-->
 
 <a name="ceu"></a>
 <hr/>
@@ -92,69 +94,82 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 
 ### Publications:
 
-* 2016: WebMedia conference paper
-    --- *"Céu-Media: Local Inter-Media Synchronization Using Céu"*
-    --- [ [pdf](ceumedia_webmedia16_pre.pdf) | [site][ceumedia16_site] ]
-    * <small>programming multimedia applications with Céu</small>
+* 2017
+    - TECS journal paper
+        -- *"The Design and Implementation of the Synchronous Language Céu"*
+        --- [ [pdf](ceu_tecs17_pre.pdf) | [site][tecs17_site] ]
+        * <small>**Read #4**</small>
+        * <small>design and implementation of Céu, contrasting and comparing with Esterel</small>
 
-* 2015: REBLS workshop paper
-    --- *"Reactive Traversal of Recursive Data Types"*
-    --- [ [pdf](ceu_rebls15.pdf) | [site][rebls15_site] ]
-    * <small>**Read #3**</small>
-    * <small>tagged unions, the `traverse` construct, a logo turtle 
-             interpreter</small>
+* 2016
+    - WebMedia conference paper
+        --- *"Céu-Media: Local Inter-Media Synchronization Using Céu"*
+        --- [ [pdf](ceumedia_webmedia16_pre.pdf) | [site][ceumedia16_site] ]
+        * <small>developing multimedia applications in Céu</small>
 
-* 2015: Modularity conference paper
-    --- *"Structured Synchronous Reactive Programming with Céu"*
-    --- [ [pdf](ceu_mod15_pre.pdf) | [site][mod15_site] | [video][mod15_video] ]
-    * <small>**Read #2**</small>
-    * <small>main paper about the "dynamic Céu": organisms, pointers and 
-             references</small>
+* 2015
+    - TOSN journal paper
+        -- *"Terra: Flexibility and Safety in Wireless Sensor Networks"*
+        --- [ [pdf](terra_tosn15_pre.pdf) | [site][tosn15_site] ]
+        * <small>tiny Céu virtual machine for dynamic reprogramming in constrained devices</small>
 
-* 2014: REBLS workshop paper
-    --- *"Structured Reactive Programming with Céu"*
-    --- [ [pdf](ceu_rebls14_pre.pdf) | [site][rebls14_site] ]
-    * <small>supressed by Modularity'15 above</small>
+    - REBLS workshop paper
+        --- *"Reactive Traversal of Recursive Data Types"*
+        --- [ [pdf](ceu_rebls15.pdf) | [site][rebls15_site] ]
+        * <small>**Read #3**</small>
+        * <small>tagged unions, the `traverse` construct, a logo turtle interpreter</small>
+    - Modularity conference paper
+        --- *"Structured Synchronous Reactive Programming with Céu"*
+        --- [ [pdf](ceu_mod15_pre.pdf) | [site][mod15_site] | [video][mod15_video] ]
+        * <small>**Read #2**</small>
+        * <small>main paper about the "dynamic Céu": organisms, pointers and 
+                 references</small>
 
-* 2013: SenSys conference paper
-    --- *"Safe Concurrent Abstractions for Wireless Sensor Networks"*
-    --- [ [pdf](ceu_sensys13_pre.pdf) | [site][sensys13_site] ]
-    * <small>**Read #1**</small>
-    * <small>main paper about the "static Céu": design, evaluation
-             </small>
+* 2014
+    - REBLS workshop paper
+        --- *"Structured Reactive Programming with Céu"*
+        --- [ [pdf](ceu_rebls14_pre.pdf) | [site][rebls14_site] ]
+        * <small>supressed by Modularity'15 above</small>
 
-* 2013: REM workshop paper
-    --- *"Advanced Control Reactivity for Embedded Systems"*
-    --- [ [pdf](ceu_rem13_pre.pdf) | [site][rem13_site] ]
-    * <small>control mechanisms on top of Céu: exception handling,
-             dataflow programming, the `par/hor` construct</small>
+* 2013
+    - SenSys conference paper
+        --- *"Safe Concurrent Abstractions for Wireless Sensor Networks"*
+        --- [ [pdf](ceu_sensys13_pre.pdf) | [site][sensys13_site] ]
+        * <small>**Read #1**</small>
+        * <small>main paper about the "static Céu": design, evaluation</small>
+    - REM workshop paper
+        --- *"Advanced Control Reactivity for Embedded Systems"*
+        --- [ [pdf](ceu_rem13_pre.pdf) | [site][rem13_site] ]
+        * <small>control mechanisms on top of Céu: exception handling, dataflow programming, the `par/hor` construct</small>
+    - PhD. Thesis
+        --- *"Safe System-level Concurrency on Resource-Constrained Nodes with Céu"*
+        --- [ [pdf](ceu_phd.pdf) ]
+        * <small>complete description of the "static Céu": design, evaluation, semantics, implementation</small>
 
-* 2013: PhD. Thesis
-    --- *"Safe System-level Concurrency on Resource-Constrained Nodes with Céu"*
-    --- [ [pdf](ceu_phd.pdf) ]
-    * <small>complete description of the "static Céu": design, evaluation, 
-             semantics, implementation</small>
+* 2012
+    - PUC-Rio technical report
+        --- *"Céu: Embedded, Safe, and Reactive Programming"*
+        --- [ [pdf](ceu_tr.pdf) | [site][tr_site] ]
+        * <small>supressed by the PhD. Thesis above (except for the sections on
+          *asynchronous execution* and *simulation*)</small>
 
-* 2012: PUC-Rio technical report
-    --- *"Céu: Embedded, Safe, and Reactive Programming"*
-    --- [ [pdf](ceu_tr.pdf) | [site][tr_site] ]
-    * <small>supressed by the PhD. Thesis above (except for the sections on
-      *asynchronous execution* and *simulation*)</small>
+* 2011
+    - SenSys (Doctoral Colloquium) paper
+        --- *"Céu: A Reactive Language for Wireless Sensor Networks"*
+        --- [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
+        * <small>first exposure of Céu, old expression-based syntax</small>
 
-* 2011: SenSys (Doctoral Colloquium) paper
-    --- *"Céu: A Reactive Language for Wireless Sensor Networks"*
-    --- [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
-    * <small>first exposure of Céu, old expression-based syntax</small>
-
+[tecs17_site]:     https://dl.acm.org/citation.cfm?id=3035544
 [ceumedia16_site]: http://dl.acm.org/citation.cfm?id=2976856
-[rebls15_site]: http://www.guidosalvaneschi.com/REBLS/REBLS2015/
-[mod15_site]: http://www.aosd.net/2015/
-[mod15_video]: https://vimeo.com/110512582
-[rebls14_site]: http://www.guidosalvaneschi.com/REBLS/REBLS2014/
-[sensys13_site]: http://sensys.acm.org/2013/index.html
-[rem13_site]: http://soft.vub.ac.be/REM13/
-[tr_site]: http://bib-di.inf.puc-rio.br/techreports/2012.htm
-[dc_site]: http://www.cse.ust.hk/~lingu/SenSys11DC/
+[tosn15_site]:     https://dl.acm.org/citation.cfm?id=2811267
+[rebls15_site]:    http://www.guidosalvaneschi.com/REBLS/REBLS2015/
+[mod15_site]:      http://www.aosd.net/2015/
+[mod15_video]:     https://vimeo.com/110512582
+[rebls14_site]:    http://www.guidosalvaneschi.com/REBLS/REBLS2014/
+[sensys13_site]:   http://sensys.acm.org/2013/index.html
+[rem13_site]:      http://soft.vub.ac.be/REM13/
+[tr_site]:         http://bib-di.inf.puc-rio.br/techreports/2012.htm
+[dc_site]:         http://www.cse.ust.hk/~lingu/SenSys11DC/
 
 ### Talks & Teaching:
 
