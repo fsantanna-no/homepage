@@ -18,6 +18,10 @@
 
 </head>
 
+<div style="width:1024">
+
+<img src="chico2.jpg" align="right"/>
+
 # Francisco Sant'Anna (<img src="email.png" height="20"/>)
 
 * Professor, [UERJ](http://www.uerj.br/idiomas.php#gb), Brazil
@@ -34,15 +38,15 @@
 ## Research
 
 <a href="#ceu">
-<img width="280" src="ceu.png" style="float:left; margin-right: 80px;"/>
+<img width="220" src="ceu.png" style="float:left; margin-right: 80px;"/>
 </a>
 
 <a href="#luagravity">
-<img width="150" src="luagravity.png" style="float:left; margin-right: 80px;"/>
+<img width="120" src="luagravity.png" style="float:left; margin-right: 80px;"/>
 </a>
 
 <a href="#ncl">
-<img width="250" src="ncl.png" style="float:left; margin-right: 80px;"/>
+<img width="200" src="ncl.png" style="float:left; margin-right: 80px;"/>
 </a>
 
 <div style="clear:both;"></div>
@@ -98,7 +102,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     - TECS journal paper
         -- *"The Design and Implementation of the Synchronous Language Céu"*
         --- [ [pdf](ceu_tecs17_pre.pdf) | [site][tecs17_site] ]
-        * <small>**Read #4**</small>
+        * <small>**Recommended #4**</small>
         * <small>design and implementation of Céu, contrasting and comparing with Esterel</small>
 
 * 2016
@@ -116,12 +120,12 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     - REBLS workshop paper
         --- *"Reactive Traversal of Recursive Data Types"*
         --- [ [pdf](ceu_rebls15.pdf) | [site][rebls15_site] ]
-        * <small>**Read #3**</small>
+        * <small>**Recommended #3**</small>
         * <small>tagged unions, the `traverse` construct, a logo turtle interpreter</small>
     - Modularity conference paper
         --- *"Structured Synchronous Reactive Programming with Céu"*
         --- [ [pdf](ceu_mod15_pre.pdf) | [site][mod15_site] | [video][mod15_video] ]
-        * <small>**Read #2**</small>
+        * <small>**Recommended #2**</small>
         * <small>main paper about the "dynamic Céu": organisms, pointers and 
                  references</small>
 
@@ -135,7 +139,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     - SenSys conference paper
         --- *"Safe Concurrent Abstractions for Wireless Sensor Networks"*
         --- [ [pdf](ceu_sensys13_pre.pdf) | [site][sensys13_site] ]
-        * <small>**Read #1**</small>
+        * <small>**Recommended #1**</small>
         * <small>main paper about the "static Céu": design, evaluation</small>
     - REM workshop paper
         --- *"Advanced Control Reactivity for Embedded Systems"*
@@ -359,3 +363,5 @@ Most of my researching and teaching is related to the Lua language.
 
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+
+</div>
