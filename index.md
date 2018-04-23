@@ -100,78 +100,76 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 
 * 2018
     - LCTES conference paper
-        -- *"A Memory-Bounded, Deterministic and Terminating Semantics for the Synchronous Programming Language Céu"*
-        --- [ [pdf](ceu_lctes18_pre.pdf) | *to appear* ]
-        * <small>formal semantics of Céu, proofs for termination, determinism, and memory boundedness</small>
+        - **A Memory-Bounded, Deterministic and Terminating Semantics for the Synchronous Programming Language Céu**
+        - formal semantics of Céu, proofs for termination, determinism, and memory boundedness
+        - [ [pdf](ceu_lctes18_pre.pdf) | *to appear* ]
     - LCTES conference short paper
-        -- *"Transparent Standby for Low-Power, Resource-Constrained Embedded Systems: A Programming Language-Based Approach"*
-        --- [ [pdf](ceu_lctes18_short_pre.pdf) | *to appear* ]
-        * <small>interrupt service routines in Céu, power management, automatic standby</small>
+        - **Transparent Standby for Low-Power, Resource-Constrained Embedded Systems: A Programming Language-Based Approach**
+        - interrupt service routines in Céu, power management, automatic standby
+        - [ [pdf](ceu_lctes18_short_pre.pdf) | *to appear* ]
 
 * 2017
     - TECS journal paper
-        -- *"The Design and Implementation of the Synchronous Language Céu"*
-        --- [ [pdf](ceu_tecs17_pre.pdf) | [site][tecs17_site] ]
+        - **The Design and Implementation of the Synchronous Language Céu**
+        - design and implementation of Céu, contrasting and comparing with Esterel
+        - [ [pdf](ceu_tecs17_pre.pdf) | [site][tecs17_site] ]
         <!--* <small>**Recommended #4**</small>-->
-        * <small>design and implementation of Céu, contrasting and comparing with Esterel</small>
 
 * 2016
     - WebMedia conference paper
-        --- *"Céu-Media: Local Inter-Media Synchronization Using Céu"*
-        --- [ [pdf](ceumedia_webmedia16_pre.pdf) | [site][ceumedia16_site] ]
-        * <small>developing multimedia applications in Céu</small>
+        - **Céu-Media: Local Inter-Media Synchronization Using Céu**
+        - developing multimedia applications in Céu
+        - [ [pdf](ceumedia_webmedia16_pre.pdf) | [site][ceumedia16_site] ]
 
 * 2015
     - TOSN journal paper
-        -- *"Terra: Flexibility and Safety in Wireless Sensor Networks"*
-        --- [ [pdf](terra_tosn15_pre.pdf) | [site][tosn15_site] ]
-        * <small>tiny Céu virtual machine for dynamic reprogramming in constrained devices</small>
+        - **Terra: Flexibility and Safety in Wireless Sensor Networks**
+        - tiny Céu virtual machine for dynamic reprogramming in constrained devices
+        - [ [pdf](terra_tosn15_pre.pdf) | [site][tosn15_site] ]
 
     - REBLS workshop paper
-        --- *"Reactive Traversal of Recursive Data Types"*
-        --- [ [pdf](ceu_rebls15.pdf) | [site][rebls15_site] ]
+        - **Reactive Traversal of Recursive Data Types**
+        - tagged unions, the `traverse` construct, a logo turtle interpreter
+        - [ [pdf](ceu_rebls15.pdf) | [site][rebls15_site] ]
         <!--* <small>**Recommended #3**</small>-->
-        * <small>tagged unions, the `traverse` construct, a logo turtle interpreter</small>
     - Modularity conference paper
-        --- *"Structured Synchronous Reactive Programming with Céu"*
-        --- [ [pdf](ceu_mod15_pre.pdf) | [site][mod15_site] | [video][mod15_video] ]
+        - **Structured Synchronous Reactive Programming with Céu**
+        - main paper about the "dynamic Céu": organisms, pointers and references
+        - [ [pdf](ceu_mod15_pre.pdf) | [site][mod15_site] | [video][mod15_video] ]
         <!--* <small>**Recommended #2**</small>-->
-        * <small>main paper about the "dynamic Céu": organisms, pointers and 
-                 references</small>
 
 * 2014
     - REBLS workshop paper
-        --- *"Structured Reactive Programming with Céu"*
-        --- [ [pdf](ceu_rebls14_pre.pdf) | [site][rebls14_site] ]
-        * <small>supressed by Modularity'15 above</small>
+        - **Structured Reactive Programming with Céu**
+        - supressed by Modularity'15 above
+        - [ [pdf](ceu_rebls14_pre.pdf) | [site][rebls14_site] ]
 
 * 2013
     - SenSys conference paper
-        --- *"Safe Concurrent Abstractions for Wireless Sensor Networks"*
-        --- [ [pdf](ceu_sensys13_pre.pdf) | [site][sensys13_site] ]
+        - **Safe Concurrent Abstractions for Wireless Sensor Networks**
+        - main paper about the "static Céu": design, evaluation
+        - [ [pdf](ceu_sensys13_pre.pdf) | [site][sensys13_site] ]
         <!--* <small>**Recommended #1**</small>-->
-        * <small>main paper about the "static Céu": design, evaluation</small>
     - REM workshop paper
-        --- *"Advanced Control Reactivity for Embedded Systems"*
-        --- [ [pdf](ceu_rem13_pre.pdf) | [site][rem13_site] ]
-        * <small>control mechanisms on top of Céu: exception handling, dataflow programming, the `par/hor` construct</small>
+        - **Advanced Control Reactivity for Embedded Systems**
+        - control mechanisms on top of Céu: exception handling, dataflow programming, the `par/hor` construct
+        - [ [pdf](ceu_rem13_pre.pdf) | [site][rem13_site] ]
     - PhD. Thesis
-        --- *"Safe System-level Concurrency on Resource-Constrained Nodes with Céu"*
-        --- [ [pdf](ceu_phd.pdf) ]
-        * <small>complete description of the "static Céu": design, evaluation, semantics, implementation</small>
+        - **Safe System-level Concurrency on Resource-Constrained Nodes with Céu**
+        - complete description of the "static Céu": design, evaluation, semantics, implementation
+        - [ [pdf](ceu_phd.pdf) ]
 
 * 2012
     - PUC-Rio technical report
-        --- *"Céu: Embedded, Safe, and Reactive Programming"*
-        --- [ [pdf](ceu_tr.pdf) | [site][tr_site] ]
-        * <small>supressed by the PhD. Thesis above (except for the sections on
-          *asynchronous execution* and *simulation*)</small>
+        - **Céu: Embedded, Safe, and Reactive Programming**
+        - supressed by the PhD. Thesis above (except for the sections on *asynchronous execution* and *simulation*)
+        - [ [pdf](ceu_tr.pdf) | [site][tr_site] ]
 
 * 2011
     - SenSys (Doctoral Colloquium) paper
-        --- *"Céu: A Reactive Language for Wireless Sensor Networks"*
-        --- [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
-        * <small>first exposure of Céu, old expression-based syntax</small>
+        - **Céu: A Reactive Language for Wireless Sensor Networks**
+        - first exposure of Céu, old expression-based syntax
+        - [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
 
 [tecs17_site]:     https://dl.acm.org/citation.cfm?id=3035544
 [ceumedia16_site]: http://dl.acm.org/citation.cfm?id=2976856
