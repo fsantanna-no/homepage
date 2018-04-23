@@ -98,11 +98,21 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 
 ### Publications:
 
+* 2018
+    - LCTES conference paper
+        -- *"A Memory-Bounded, Deterministic and Terminating Semantics for the Synchronous Programming Language Céu"*
+        --- [ [pdf](ceu_lctes18_pre.pdf) | *to appear* ]
+        * <small>formal semantics of Céu, proofs for termination, determinism, and memory boundedness</small>
+    - LCTES conference short paper
+        -- *"Transparent Standby for Low-Power, Resource-Constrained Embedded Systems: A Programming Language-Based Approach"*
+        --- [ [pdf](ceu_lctes18_short_pre.pdf) | *to appear* ]
+        * <small>interrupt service routines in Céu, power management, automatic standby</small>
+
 * 2017
     - TECS journal paper
         -- *"The Design and Implementation of the Synchronous Language Céu"*
         --- [ [pdf](ceu_tecs17_pre.pdf) | [site][tecs17_site] ]
-        * <small>**Recommended #4**</small>
+        <!--* <small>**Recommended #4**</small>-->
         * <small>design and implementation of Céu, contrasting and comparing with Esterel</small>
 
 * 2016
@@ -120,12 +130,12 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     - REBLS workshop paper
         --- *"Reactive Traversal of Recursive Data Types"*
         --- [ [pdf](ceu_rebls15.pdf) | [site][rebls15_site] ]
-        * <small>**Recommended #3**</small>
+        <!--* <small>**Recommended #3**</small>-->
         * <small>tagged unions, the `traverse` construct, a logo turtle interpreter</small>
     - Modularity conference paper
         --- *"Structured Synchronous Reactive Programming with Céu"*
         --- [ [pdf](ceu_mod15_pre.pdf) | [site][mod15_site] | [video][mod15_video] ]
-        * <small>**Recommended #2**</small>
+        <!--* <small>**Recommended #2**</small>-->
         * <small>main paper about the "dynamic Céu": organisms, pointers and 
                  references</small>
 
@@ -139,7 +149,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     - SenSys conference paper
         --- *"Safe Concurrent Abstractions for Wireless Sensor Networks"*
         --- [ [pdf](ceu_sensys13_pre.pdf) | [site][sensys13_site] ]
-        * <small>**Recommended #1**</small>
+        <!--* <small>**Recommended #1**</small>-->
         * <small>main paper about the "static Céu": design, evaluation</small>
     - REM workshop paper
         --- *"Advanced Control Reactivity for Embedded Systems"*
