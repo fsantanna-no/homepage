@@ -102,11 +102,11 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     - LCTES conference paper
         - **A Memory-Bounded, Deterministic and Terminating Semantics for the Synchronous Programming Language Céu**
         - formal semantics of Céu, proofs for termination, determinism, and memory boundedness
-        - [ [pdf](ceu_lctes18_pre.pdf) | *to appear* ]
+        - [ [pdf](ceu_lctes18_pre.pdf) | [site][lctes18_site] ]
     - LCTES conference short paper
         - **Transparent Standby for Low-Power, Resource-Constrained Embedded Systems: A Programming Language-Based Approach**
         - interrupt service routines in Céu, power management, automatic standby
-        - [ [pdf](ceu_lctes18_short_pre.pdf) | *to appear* ]
+        - [ [pdf](ceu_lctes18_short_pre.pdf) | [site][lctes18_short_site] ]
 
 * 2017
     - TECS journal paper
@@ -171,17 +171,20 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
         - first exposure of Céu, old expression-based syntax
         - [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
 
-[tecs17_site]:     https://dl.acm.org/citation.cfm?id=3035544
-[ceumedia16_site]: http://dl.acm.org/citation.cfm?id=2976856
-[tosn15_site]:     https://dl.acm.org/citation.cfm?id=2811267
-[rebls15_site]:    http://www.guidosalvaneschi.com/REBLS/REBLS2015/
-[mod15_site]:      http://www.aosd.net/2015/
-[mod15_video]:     https://vimeo.com/110512582
-[rebls14_site]:    http://www.guidosalvaneschi.com/REBLS/REBLS2014/
-[sensys13_site]:   http://sensys.acm.org/2013/index.html
-[rem13_site]:      http://soft.vub.ac.be/REM13/
-[tr_site]:         http://bib-di.inf.puc-rio.br/techreports/2012.htm
-[dc_site]:         http://www.cse.ust.hk/~lingu/SenSys11DC/
+[lctes18_site]:         https://conf.researchr.org/event/LCTES-2018/lctes-2018-papers-a-memory-bounded-deterministic-and-terminating-semantics-for-the-synchronous-programming-language-c-u
+[lctes18_short_site]:   https://conf.researchr.org/event/LCTES-2018/lctes-2018-papers-wip-transparent-standby-for-low-power-resource-constrained-embedded-systems-a-programming-language-based-approach
+[tecs17_site]:          https://dl.acm.org/citation.cfm?id=3035544
+[ceumedia16_site]:      http://dl.acm.org/citation.cfm?id=2976856
+[tosn15_site]:          https://dl.acm.org/citation.cfm?id=2811267
+[rebls15_site]:         http://www.guidosalvaneschi.com/REBLS/REBLS2015/
+[mod15_site]:           http://www.aosd.net/2015/
+[mod15_video]:          https://vimeo.com/110512582
+[rebls14_site]:         http://www.guidosalvaneschi.com/REBLS/REBLS2014/
+[sensys13_site]:        http://sensys.acm.org/2013/index.html
+[rem13_site]:           http://soft.vub.ac.be/REM13/
+[tr_site]:              http://bib-di.inf.puc-rio.br/techreports/2012.htm
+[dc_site]:              http://www.cse.ust.hk/~lingu/SenSys11DC/
+
 
 ### Talks & Teaching:
 
