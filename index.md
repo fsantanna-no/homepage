@@ -110,7 +110,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     - LCTES conference short paper
         - **Transparent Standby for Low-Power, Resource-Constrained Embedded Systems: A Programming Language-Based Approach**
         - interrupt service routines in Céu, power management, automatic standby
-        - [ [pdf](ceu_lctes18_short_pre.pdf) | [site][lctes18_short_site] ]
+        - [ [pdf](ceu_lctes18_short_pre.pdf) | [site][lctes18_site] ]
 
 * 2017
     - TECS journal paper
