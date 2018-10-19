@@ -106,11 +106,11 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
     - LCTES conference paper
         - **A Memory-Bounded, Deterministic and Terminating Semantics for the Synchronous Programming Language Céu**
         - formal semantics of Céu, proofs for termination, determinism, and memory boundedness
-        - [ [pdf](ceu_lctes18_pre.pdf) | *to appear* ]
+        - [ [pdf](ceu_lctes18_pre.pdf) | [site][lctes18_site] ]
     - LCTES conference short paper
         - **Transparent Standby for Low-Power, Resource-Constrained Embedded Systems: A Programming Language-Based Approach**
-        - power management, automatic standby
-        - [ [pdf](ceu_lctes18_short_pre.pdf) | *to appear* ]
+        - interrupt service routines in Céu, power management, automatic standby
+        - [ [pdf](ceu_lctes18_short_pre.pdf) | [site][lctes18_short_site] ]
 
 * 2017
     - TECS journal paper
