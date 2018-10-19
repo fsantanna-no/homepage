@@ -99,13 +99,17 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
 ### Publications:
 
 * 2018
+    - REBLS workshop short paper
+        - **Where Do Events Come From? --- Reactive and Energy-Efficient Programming From The Ground Up**
+        - interrupt service routines, drivers, automatic standby
+        - [ [pdf](ceu_rebls18.pdf) | [site][rebls18_site] ]
     - LCTES conference paper
         - **A Memory-Bounded, Deterministic and Terminating Semantics for the Synchronous Programming Language Céu**
         - formal semantics of Céu, proofs for termination, determinism, and memory boundedness
         - [ [pdf](ceu_lctes18_pre.pdf) | *to appear* ]
     - LCTES conference short paper
         - **Transparent Standby for Low-Power, Resource-Constrained Embedded Systems: A Programming Language-Based Approach**
-        - interrupt service routines in Céu, power management, automatic standby
+        - power management, automatic standby
         - [ [pdf](ceu_lctes18_short_pre.pdf) | *to appear* ]
 
 * 2017
@@ -171,6 +175,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
         - first exposure of Céu, old expression-based syntax
         - [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
 
+[rebls18_site]:    https://2018.splashcon.org/track/rebls-2018-papers
 [tecs17_site]:     https://dl.acm.org/citation.cfm?id=3035544
 [ceumedia16_site]: http://dl.acm.org/citation.cfm?id=2976856
 [tosn15_site]:     https://dl.acm.org/citation.cfm?id=2811267
