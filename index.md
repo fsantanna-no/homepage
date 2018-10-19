@@ -176,6 +176,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
         - [ [pdf](ceu_sensys11.pdf) | [site][dc_site] ]
 
 [rebls18_site]:    https://2018.splashcon.org/track/rebls-2018-papers
+[lctes18_site]:    https://conf.researchr.org/track/LCTES-2018/LCTES-2018-papers#program
 [tecs17_site]:     https://dl.acm.org/citation.cfm?id=3035544
 [ceumedia16_site]: http://dl.acm.org/citation.cfm?id=2976856
 [tosn15_site]:     https://dl.acm.org/citation.cfm?id=2811267
