@@ -20,7 +20,7 @@
 
 <div style="width:1024">
 
-<img src="chico2.jpg" align="right"/>
+<img width="240" src="chico.jpg" align="right"/>
 
 # Francisco Sant'Anna (<img src="email.png" height="20"/>)
 
@@ -113,6 +113,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
         - [ [pdf](ceu_lctes18_short_pre.pdf) | [site][lctes18_site] ]
 
 * 2017
+    <a name="tecs17"></a>
     - TECS journal paper
         - **The Design and Implementation of the Synchronous Language Céu**
         - design and implementation of Céu, contrasting and comparing with Esterel
@@ -149,6 +150,7 @@ I can help with all support (i.e. coding) to integrate Céu with your platform.
         - [ [pdf](ceu_rebls14_pre.pdf) | [site][rebls14_site] ]
 
 * 2013
+    <a name="sensys13"></a>
     - SenSys conference paper
         - **Safe Concurrent Abstractions for Wireless Sensor Networks**
         - main paper about the "static Céu": design, evaluation
